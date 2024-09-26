@@ -25,19 +25,6 @@
 
 ---
 
-### 🌟 Projects
-Here are some of the cool projects I've worked on:
-
-1. **[Project Name 1](#)**
-   - Description: A brief description of what this project does and what technologies were used.
-   - Tech Stack: React, TypeScript, Tailwind CSS
-   
-2. **[Project Name 2](#)**
-   - Description: A brief description of this project and its purpose.
-   - Tech Stack: JavaScript, Redux, CSS3
-
----
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yellowmodric&theme=radical)

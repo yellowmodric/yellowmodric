@@ -4,6 +4,14 @@
 
 저는 웹 애플리케이션을 만들며, 최신 웹 기술을 활용해 아이디어를 현실로 만드는 것을 좋아합니다!
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yellowmodric"
+  width="600"
+  height="300"
+/>
+</a>
+
 ---
 
 ### 🛠️ Technologies & Tools
